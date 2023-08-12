@@ -1,6 +1,11 @@
 # OptimisedAutonomousRacing
+Group Members: 
+- Dinesh Magesvaran
+- Prabhakaran Gokul
+- Soh Wei-Jie
 
 # Description of project 
+(Details about the frozen lake problem attached in PDF)
 
 # Installation
 ```conda create --name race_car python=3.6```
