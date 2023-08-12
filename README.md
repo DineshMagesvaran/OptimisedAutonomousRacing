@@ -7,6 +7,8 @@ Group Members:
 # Description of project 
 (Details about the project attached in PDF)
 
+Project Video: https://drive.google.com/file/d/1DGJsCWZaASdR9xZju8_ApaUxgr66EAt4/view?usp=sharing
+
 # Installation
 ```conda create --name race_car python=3.6```
 
