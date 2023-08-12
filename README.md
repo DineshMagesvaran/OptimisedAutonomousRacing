@@ -5,7 +5,7 @@ Group Members:
 - Soh Wei-Jie
 
 # Description of project 
-(Details about the frozen lake problem attached in PDF)
+(Details about the project attached in PDF)
 
 # Installation
 ```conda create --name race_car python=3.6```
